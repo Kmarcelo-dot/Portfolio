@@ -1,2 +1,5 @@
-title : Marcelo KALONJI ILUNGA
-logo :
+title: Marcelo KALONJI ILUNGA
+logo:/assets/img/Kim2.png
+description: Ecrire ici un texte de description 
+show_download: true
+theme: jekyll-theme-minimal
