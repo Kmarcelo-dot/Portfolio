@@ -10,7 +10,7 @@ en assurance santé et des compétences solides en recherche médico-économique
 
 ### Expérience professionnelle
 
-**Assistant de recherche** — École de Santé Publique de Kinshasa *(2022 – en cours)*
+**Assistant de recherche** — École de Santé Publique de Kinshasa *(2022 – 2024)*
 - Conception de protocoles de recherche et revues de littérature
 - Collecte, gestion, traitement et analyse de données
 - Rédaction de rapports, articles scientifiques et documents de synthèse
@@ -49,13 +49,13 @@ Mémoire : *Profil épidémiologique et clinique de la Thrombose veineuse profon
 
 ### Compétences
 
-**Analyse de données** : R · SAS · Python · Excel/VBA · SPSS · ODK · Kobocollect · Epi-Info
+**Analyse de données** : R · SAS · Python · Excel/VBA · SPSS · ODK · Kobocollect · Epi-Info · Big Data/R · Data Mining/R
 
 **Domaines** : Économie de la santé · Financement hospitalier · 
 Évaluation médico-économique · Couverture Sanitaire Universelle · 
 Assurance santé · Recherche clinique
 
-**Langues** : Français (maternel) · Lingala (maternel) · Allemand (B1) · Anglais (A2)
+**Langues** : Français (maternel) · Allemand (B1) · Anglais (A2) · Lingala (maternel)
 
 ---
 
